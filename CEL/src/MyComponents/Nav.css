@@ -1,0 +1,33 @@
+Nav{
+    background-color: white;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 5px 0px 5px 30px;
+    overflow: hidden;
+    border-radius: 0px;
+}
+Nav .navbar-brand{
+    color: rgb(112, 13, 224);
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 50px;
+}
+Nav a.Nav-Link{
+    color:black;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-right:10px;
+}
+Nav a{
+    text-transform: uppercase;
+}
+Nav a:hover{
+    color:rgb(112, 13, 224);
+    transition: .2s ease-in-out;
+}
+Nav a.first{
+    background-color:rgb(112, 13, 224);
+    color: white !important;
+}

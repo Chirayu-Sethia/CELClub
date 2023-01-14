@@ -1,0 +1,32 @@
+header{
+    background: url('../Asset/startup.jpg') center no-repeat; 
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 25px 0px;
+    text-align: center;
+    overflow: hidden;
+}
+header .header-overlay{
+    background-color: rgb(110, 58, 152, .6);
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 25px 0px;
+}
+header h2{
+    color:white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 25px 0px 15px 0px;
+    letter-spacing: 1px;
+}
+header p{
+    color: white;
+    font-size:16px;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 25px 0px;
+}
+
